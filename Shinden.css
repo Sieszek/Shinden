@@ -1,25 +1,11 @@
 /**************************************
  * MAIN LAYOUT ELEMENTS
  **************************************/
-/*.layout-wrapper {
+.layout-wrapper {
     background-image: url("https://sieszek.github.io/Shinden/Tło.png") !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-}*/
-
-.layout-wrapper {
-    background: url("https://sieszek.github.io/Shinden/elaina-wandering-witch.1920x1080.mp4") !important;
-}
-
-video {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    z-index: -1;
 }
 
 #__next > div > div > div.jsx-2687105798.header-wrapper > div{visibility:hidden;}
