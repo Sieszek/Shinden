@@ -2,11 +2,13 @@
  * MAIN LAYOUT ELEMENTS
  **************************************/
 .layout-wrapper {
-    background-image: url("elaina-wandering-witch.jpg") !important;
+    background-image: url("elaina-wandering-witch.1920x1080.mp4") !important;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
+
+
 
 .footer-wrapper {
     background-color: rgba(90, 50, 130, 0.9) !important;
